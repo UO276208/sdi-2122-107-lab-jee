@@ -29,6 +29,9 @@
             <li class="nav-item ">
                 <a class="nav-link" href="admin.jsp">Administrar productos<span class="sr-only">(current)</span></a>
             </li>
+            <li class="nav-item ">
+                <a class="nav-link" href="Products">Productos<span class="sr-only">(current)</span></a>
+            </li>
         </ul>
         <div class="nav navbar-right">
             <jsp:getProperty name="counter" property="total"/> Visitas
